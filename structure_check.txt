@@ -1,0 +1,3 @@
+scripts
+structure_check.txt
+tcad_sims

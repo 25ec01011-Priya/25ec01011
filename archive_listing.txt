@@ -1,0 +1,5 @@
+drwxr-xr-x guna_lakshimi_priya/guna_lakshimi_priya 0 2026-07-31 05:35 tcad_sims/
+-rw-r--r-- guna_lakshimi_priya/guna_lakshimi_priya 7 2026-07-31 05:35 tcad_sims/device1.txt
+-rw-r--r-- guna_lakshimi_priya/guna_lakshimi_priya 12 2026-07-31 05:35 tcad_sims/device2.txt
+-rw-r--r-- guna_lakshimi_priya/guna_lakshimi_priya 34 2026-07-31 04:35 tcad_sims/sim_progress.log
+-rw-r--r-- guna_lakshimi_priya/guna_lakshimi_priya 13 2026-07-31 05:35 tcad_sims/device3.txt

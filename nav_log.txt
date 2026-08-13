@@ -1,0 +1,5 @@
+cd 25EC01011/scripts
+pwd
+cd ..
+cd 25EC01011/tcad_sims
+

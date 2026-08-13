@@ -1,0 +1,2 @@
+-rw-r--r-- 1 guna_lakshimi_priya guna_lakshimi_priya 0 Jul 31 04:38 deploy.sh
+-rwxr--r-- 1 guna_lakshimi_priya guna_lakshimi_priya 0 Jul 31 04:38 deploy.sh
