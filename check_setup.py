@@ -16,4 +16,4 @@ plt.show()
 print("EDA setup is complete")
 print("EDA setup is working")
 print("Roll Number: 25EC01011")
-xlabel = "Voltage(V)"
+xlabel = "DrainVoltage(V)"
