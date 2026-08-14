@@ -17,3 +17,4 @@ print("EDA setup is complete")
 print("EDA setup is working")
 print("Roll Number: 25EC01011")
 xlabel = "Drain Voltage(V)"
+print("Date of Birth: YOUR_DOB")

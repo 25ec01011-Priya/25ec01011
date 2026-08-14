@@ -6,4 +6,12 @@
 * 7c09506 Update setup message
 * 9294698 Initial setup
 E3 merge completed
-
+*   5f667ec (HEAD -> main) Merge branch 'branch_check'
+|\  
+| * 7447ca9 (branch_check) Branch checkpoint
+* | 7dd2068 Update README on main
+|/  
+* d887d0c Add roll number
+* bf65a6a Update print statement
+* 7c09506 Update setup message
+* 9294698 Initial setup
